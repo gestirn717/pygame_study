@@ -3,7 +3,7 @@
 import os
 import pygame
 import math
-
+#fixed 
 #집게 클래스
 class Claw(pygame.sprite.Sprite):
     def __init__ (self, image, position):
